@@ -1,4 +1,9 @@
-
+---
+title: Pagina Principale
+draft: false
+tags:
+---
+ 
 ## Chi sono?
 
 Sono Giovanni, in arte Giovyx90 (Se ti interessa come mai proprio il numero 90, [clicca qui ](https://giovyx90.net/Come-ho--scelto-il-mio-nome)ed ho 19 anni. Mi piace molto creare e in generale tutto ciò che richiede creatività, ma non solo!
