@@ -1,13 +1,13 @@
 ---
-title: Giovyx90
+title: Pagina principale
 ---
 
 
 ## Chi sono? 
 
-Mi chiamo Giovanni, su internet ed online Giovyx. Sono un ragazzo di 19 anni e attualmente frequento un Liceo Scientifico.
+Mi chiamo Giovanni, su internet ed online Giovyx90. Sono un ragazzo di 19 anni e attualmente frequento un Liceo Scientifico.
 
-## I miei interessi:
+## I miei interessi
 
 * La Matematica
 * Il disegno e l'arte
