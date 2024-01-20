@@ -2,7 +2,7 @@
 ## Ottobre 2015
 
 Avevo 10 anni.
-Per il mio decimo compleanno, mi hanno deciso di regalare un tablet (di cui purtroppo non ricordo la marca) e ci installai un gioco che poi divenne subito il preferito: [Clash of Clans]([Clash of Clans × Supercell](https://supercell.com/en/games/clashofclans/)).
+Per il mio decimo compleanno, mi hanno deciso di regalare un tablet (di cui purtroppo non ricordo la marca) e ci installai un gioco che poi divenne subito il preferito: Clash of Clans.
 
 Decisi di mettere un nome totalmente casuale per il mio account, e questo fu *Giovanni900*.
 Giovanni perché é il mio nome effettivo, ma credo che il 900 sia un numero completamente casuale.
