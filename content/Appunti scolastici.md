@@ -1,5 +1,4 @@
+Ecco i miei appunti nelle varie materie presi durante il corso dell'anno:
 
-Ecco i miei appunti scolastici del quinto anno.
-
-* [Fisica](https://fisica.giovyx90.net)
-
+- [Fisica](https:/fisica.giovyx90.net)
+- [Arte](https:/arte.giovyx90.net)
