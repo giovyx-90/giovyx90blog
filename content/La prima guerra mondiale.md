@@ -1,25 +1,25 @@
 DEFINIZIONI
 
-- GRANDE GUERRA → nuove armi e tecniche di combattimento (II riv. ind.), circa 30 paesi coinvolti su più continenti (p. 167), moltissime vittime (si aggiunge anche l’epidemia di febbre spagnola)
+- **GRANDE GUERRA** → nuove armi e tecniche di combattimento (II riv. ind.), circa 30 paesi coinvolti su più continenti (p. 167), moltissime vittime (si aggiunge anche l’epidemia di febbre spagnola)
 
-- GUERRA TOTALE → viene coinvolta tutta la società civile:
+- **GUERRA TOTALE** → viene coinvolta tutta la società civile:
 
-- propaganda = coinvolge tutti i mezzi di informazione (giornali, riviste, radio, manifesti pubblicitari, cinegiornali [info prima dei film], discorsi politici, vignette satiriche, etc.)
+- **propaganda** = coinvolge tutti i mezzi di informazione (giornali, riviste, radio, manifesti pubblicitari, cinegiornali [info prima dei film], discorsi politici, vignette satiriche, etc.)
 
-- donne = sostituiscono in fabbrica gli uomini al fronte, li aiutano come cuoche e infermiere, etc.
+- **donne** = sostituiscono in fabbrica gli uomini al fronte, li aiutano come cuoche e infermiere, etc.
 
-- riconversione bellica = tutte le industrie in grado di farlo, devono produrre armi o comunque collaborare allo sforzo militare
+- **riconversione bellica** = tutte le industrie in grado di farlo, devono produrre armi o comunque collaborare allo sforzo militare
 
-- coinvolgimento statale = aumento tasse, razionamento dei beni (es. tessera per ), grande finanziamento scientifico 
+- **coinvolgimento statale** = aumento tasse, razionamento dei beni (es. tessera per ), grande finanziamento scientifico 
 
-- distruttiva = trincee, carri armati, sommergibili, dirigibili, gas tossici, etc.
+- **distruttiva **= trincee, carri armati, sommergibili, dirigibili, gas tossici, etc.
 
 
-- GUERRA DI TRINCEA = fossato difensivo mimetizzato e protetto da soldati armati (spesso giovanissimi) che vivevano in condizioni terribili → lo “stallo” di questa tecnica di combattimento, per cui nessuno riusciva ad avanzare, portò a un grande aumento del malcontento nonostante l’iniziale nazionalismo che portò molti giovane ad arruolarsi convinti di proteggere l’onore del proprio paese.
+- **GUERRA DI TRINCEA** = fossato difensivo mimetizzato e protetto da soldati armati (spesso giovanissimi) che vivevano in condizioni terribili → lo “stallo” di questa tecnica di combattimento, per cui nessuno riusciva ad avanzare, portò a un grande aumento del malcontento nonostante l’iniziale nazionalismo che portò molti giovane ad arruolarsi convinti di proteggere l’onore del proprio paese.
 
-L’obiettivo di questa guerra può essere definito ILLIMITATO: il nemico è l’intera società avversaria, non solo il suo esercito.
+L’obiettivo di questa guerra può essere definito** ILLIMITATO**: il nemico è l’intera società avversaria, non solo il suo esercito.
 
-Tutti questi aspetti verranno amplificati nella Seconda GM, ma si trovano già in nuce nella Prima GM.
+Tutti questi aspetti verranno amplificati nella Seconda GM, ma si trovano già in luce nella Prima GM.
 
 
 ### CAUSE PRIMA GUERRA MONDIALE
@@ -34,11 +34,11 @@ La GUERRA nasce da un fatto estemporaneo che fa emergere un gran numero di tensi
 
 Tra le maggiori cause di “intossicazione” delle opinioni pubbliche, che esulteranno per l’entrata in guerra dei rispettivi Paesi (non accorgendosi dell’imminente catastrofe):
 
-- COMPETIZIONE IMPERIALISTA =  per attenuare gli attriti tra le classi sociali la propaganda patriottica esalta i valori di unità e orgoglio nazionale (es. revanscismo francese) e proietta all’esterno i conflitti (verso le colonie), cercando di accaparrarsi i territori più fragili;
+- **COMPETIZIONE IMPERIALISTA** =  per attenuare gli attriti tra le classi sociali la propaganda patriottica esalta i valori di unità e orgoglio nazionale (es. revanscismo francese) e proietta all’esterno i conflitti (verso le colonie), cercando di accaparrarsi i territori più fragili;
 
-- SOVRAPPRODUZIONE E MILITARIZZAZIONE = ci fu questa corsa all’ampliamento territoriale anche perché l’enorme sviluppo dell’industria richiede una quantità sempre maggiore di materie prime e di nuovi mercati dove vendere i propri prodotti (es. l’India per l’Inghilterra): vengono inoltre prodotte nuove armi sempre più potenti;
+- **SOVRAPPRODUZIONE E MILITARIZZAZIONE** = ci fu questa corsa all’ampliamento territoriale anche perché l’enorme sviluppo dell’industria richiede una quantità sempre maggiore di materie prime e di nuovi mercati dove vendere i propri prodotti (es. l’India per l’Inghilterra): vengono inoltre prodotte nuove armi sempre più potenti;
 
-- DEBOLEZZA DELLE DIPLOMAZIE E ILLUSIONE DI UNA GUERRA RAPIDA = i governi europei sono convinti di poter risolvere i conflitti per via diplomatica o, in caso di guerra, che le ostilità possano cessare in tempi brevi.  
+- **DEBOLEZZA DELLE DIPLOMAZIE E ILLUSIONE DI UNA GUERRA RAPIDA** = i governi europei sono convinti di poter risolvere i conflitti per via diplomatica o, in caso di guerra, che le ostilità possano cessare in tempi brevi.  
 
 
 ![](https://lh7-us.googleusercontent.com/CkppM6_jEdOW_u3fj06eIvCnhKuoWAMSZcrxTq4dkvyWJOxipkIYTluQOdbSt6RpyL6ryA-emsm_SO9ob97DOH8go560A-wrkdQizhP0FmQJgX2XbXhqtqrNY_WzVAMmDXFYFdTTwzfsw3BPrL6QdqY)

@@ -1,7 +1,7 @@
 
 ## Chi sono?
 
-Sono Giovanni, in arte Giovyx90 (Se ti interessa come mai proprio il numero 90, [[Come ho  scelto il mio nome]] ed ho 19 anni. Mi piace molto creare e in generale tutto ciò che richiede creatività, ma non solo!
+Sono Giovanni, in arte Giovyx90. Se ti interessa come mai proprio il numero 90, [[Come ho  scelto il mio nome]].  Attualmente ho 19 anni. Mi piace molto creare e in generale tutto ciò che richiede creatività, ma non solo!
 
 Frequento attualmente il quinto anno di un liceo scientifico, e probabilmente frequenterò la facoltà  di Matematica l'anno prossimo.
 
